@@ -1,7 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
     text-align: center;
-    background-color: #f7f7f7;
+    background-color: #f7f7f78e;
 }
 
 h1 {
@@ -9,7 +10,7 @@ h1 {
 }
 
 .translator {
-    background-color: #fff;
+    background-color: #ffffff1c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
